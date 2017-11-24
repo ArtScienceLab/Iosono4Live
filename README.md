@@ -1,8 +1,8 @@
 # Iosono4Live
 Ableton live plugin for sound spatialisation using Barco's IOSONO core
 
-![Plugin 1](https://raw.githubusercontent.com/Kj1/Iosono4Live/master/img/screen-spherical.jpg)
-![Plugin 2](https://raw.githubusercontent.com/Kj1/Iosono4Live/master/img/screen-Cartesian.jpg)
+![Plugin 1](https://raw.githubusercontent.com/ArtScienceLab/Iosono4Live/master/img/screen-spherical.jpg)
+![Plugin 2](https://raw.githubusercontent.com/ArtScienceLab/Iosono4Live/master/img/screen-Cartesian.jpg)
 
 ## Info
 - Version 1 using spectral coordinates: IOSONO_Spectral.amxd
@@ -32,7 +32,7 @@ Ableton live plugin for sound spatialisation using Barco's IOSONO core
 - Configure settings, ** select the same channel as the audio output! **
 - Automate slides as required
 
-![Channel Setup](https://raw.githubusercontent.com/Kj1/Iosono4Live/master/img/channel.jpg)
+![Channel Setup](https://raw.githubusercontent.com/ArtScienceLab/Iosono4Live/master/img/channel.jpg)
 
 ## Remarks for stereo tracks
 - When the plugin needs to spatialise a stereo track, you can select both channels at once (eg 1+2) but they will be spatialised at the same location; effectivly losing the stereo effect.
@@ -43,7 +43,7 @@ Ableton live plugin for sound spatialisation using Barco's IOSONO core
 
 ## Automation
 All parameters can be automated, both in session and track view.
-![Automate](https://raw.githubusercontent.com/Kj1/Iosono4Live/master/img/demo_automate.jpg)
+![Automate](https://raw.githubusercontent.com/ArtScienceLab/Iosono4Live/master/img/demo_automate.jpg)
 
 ## Additional info
 see readmee files at https://github.com/krooklab/midi2iosono and https://github.com/krooklab/immersivespace-template
