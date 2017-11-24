@@ -39,7 +39,7 @@ Ableton live plugin for sound spatialisation using Barco's IOSONO core
 - Selecting (1-2) rotates the second channel 180 degrees.
 
 ## Demo
-[https://raw.githubusercontent.com/Kj1/Iosono4Live/master/img/demo.mp4]
+[https://raw.githubusercontent.com/ArtScienceLab/Iosono4Live/master/img/demo.mp4]
 
 ## Automation
 All parameters can be automated, both in session and track view.
